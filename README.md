@@ -1,4 +1,4 @@
-pengolahan data end-to-end secara terstruktur dan reproducible.
+Belajar pengolahan data end-to-end secara terstruktur dan reproducible.
 
 Pipeline ini mencakup:
 	•	Extract: Mengambil data dari sumber (file / database / API)
